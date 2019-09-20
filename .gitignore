@@ -1,0 +1,17 @@
+.metadata/
+RemoteSystemsTempFiles/.project
+.recommenders/
+bienestar.cocina/.settings/org.eclipse.m2e.core.prefs
+bienestar.cocina/bienestar.cocina.back/.classpath
+bienestar.cocina/bienestar.cocina.back/.settings/
+bienestar.cocina/bienestar.cocina.front/.classpath
+bienestar.cocina/bienestar.cocina.front/.settings/org.eclipse.core.resources.prefs
+bienestar.cocina/bienestar.cocina.front/.settings/org.eclipse.jdt.core.prefs
+bienestar.cocina/bienestar.cocina.front/.settings/org.eclipse.m2e.core.prefs
+bienestar.cocina.back/.settings/
+bienestar.cocina.front/.settings/
+.settings/org.eclipse.m2e.core.prefs
+bienestar.cocina.back/.classpath
+bienestar.cocina.front/.classpath
+bienestar.cocina.back/.project
+bienestar.cocina.front/.project
